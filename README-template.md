@@ -33,4 +33,4 @@ Users should be able to:
 ## Author
 
 - Website - [Huddle Landing Page](https://BarbareUgrekhelidze.github.io/simple-Huddle-landing-page/)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
